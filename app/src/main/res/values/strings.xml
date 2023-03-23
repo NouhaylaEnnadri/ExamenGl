@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ExamenGl</string>
+    <string name="full_name">Full Name</string>
+    <string name="Phone_no">Phone No</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_pwd">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">register</string>
+    <string name="sign_in">Sign in</string>
+    <string name="account">Have an account ?  </string>
+    <string name="accountLogin">Don t Have an account ?  </string>
+    <string name="login">Login ?  </string>
+    <string name="or">or  </string>
+    <string name="sign_in_with">Sign in with </string>
+    <string name="remember_me">Remember me</string>
+    <string name="frgt_pwd">Forgot password </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
